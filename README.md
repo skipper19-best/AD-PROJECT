@@ -1,4 +1,4 @@
-# AD Lab 2025
+# AD Lab 2025 (заброшен)
 
 AD Project - Active Directory Domain Services
 
